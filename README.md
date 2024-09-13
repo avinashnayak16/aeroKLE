@@ -1,5 +1,5 @@
 # Pixhawk and Raspberrypi Integration
-  - [Previous version of raspbery pi](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-05-28/) 
+  - [**Previous version of raspbery pi**](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-05-28/) 
 
 <details>
   <summary>Raspberry Pi-4 Setup</summary>
