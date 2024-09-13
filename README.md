@@ -134,7 +134,7 @@
   >  sudo pip3 install geopy
   >  sudo pip3 install MAVProxy
   > ```
-
+### [dronekit library](https://github.com/dronekit/dronekit-python)
   - Set up serial connection, type following in ssh
   > ```bash
   > sudo raspi-config
