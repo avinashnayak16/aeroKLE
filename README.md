@@ -5,10 +5,14 @@
   <summary>Raspberry Pi-4 Setup</summary>
   
   ## Raspberry Pi OS setup
+  For Raspberry pi-4 
+  Raspberry Pi OS (64-bit)
+  A port of Debian Bookworm with the Raspberry Pi Desktop (Recommended)
   - Install RPI software using “Imager” to SD card or Pen Drive.
     - [Imager Software](https://www.raspberrypi.com/software/)
       
-    ![image](https://github.com/user-attachments/assets/349d6c34-065e-426c-b4d7-142feadab6cc)
+    ![image](https://github.com/user-attachments/assets/90ce022a-ab6f-4ffb-a4e1-61166b89bd36)
+
 
   - Connect Pi SSH using Wi-Fi.
     - Enable VNC using putty or Windows PowerShell ( "ssh @piexample"    ip_address or host_name)
@@ -18,8 +22,101 @@
       hdmi_group=2
       hdmi_mode=9
       ```
+  - Power the RPI using BEC module.
+      - Check port
+      
+      >  ```bash
+      >  ls /dev/ttyAMA0
+      >  ```
+  - add below two lines at bottom of file  `sudo nano /boot/config.txt` ,if not there
+        
+      >  ```bash
+      >  enable_uart=1
+      >  dtoverlay=disable-bt
+      >  ```
        [Youtube Link](https://youtu.be/hA9r13ZUS08?si=trx05AKz2boaaN3q)
 </details>
+
+<details>
+  <summary>Raspberry Pi-5 Setup</summary>
+  
+  ## Raspberry Pi OS setup
+  Using Raspberry Pi Imager, flash the Raspberry Pi OS compatible with Raspberry Pi 5     
+  (Recommended: Rasperry Pi OS (Debian Bookworm) Full 64-bit with Desktop Environment and 
+   Recommended applications) on a SD Card .
+  - Install RPI software using “Imager” to SD card or Pen Drive.
+    - [Imager Software](https://www.raspberrypi.com/software/)
+      
+    ![image](https://github.com/user-attachments/assets/5ee760ea-91b6-4d39-85e0-94de57e17ef9)
+
+  - Connect Pi SSH using Wi-Fi.
+    - Enable VNC using putty or Windows PowerShell ( "ssh @piexample"    ip_address or host_name)
+    - Set up serial connection and type the following in SSH:
+      > ```bash
+      > sudo raspi-config
+      > ```
+    - Change the folowing settings:
+        a) Go to interface settings
+        
+        b) Enable SSH
+        
+        c) Enable VNC
+        
+        d) Go to serial
+        
+        e) When prompted, select no to 'Would you like a login shell to be accessible over serial?'
+        
+        f) When prompted, select yes to 'Would you like the serial port hardware to be enabled?'.
+        
+        g) Reboot the Raspberry Pi using sudo reboot when you are done.
+        
+        h) The Raspberry Pi’s serial port will now be usable on /dev/serial0.
+  - Run the following commands:
+    > ```bash
+    > sudo apt-get update
+    > sudo apt-get upgrade
+    > ```
+  - Create a virtual environment to install any external packages:
+    > ```python
+    > python3 -m venv myenv
+    > source myenv/bin/activate
+    > ```
+  - Install required Python packages:
+      - (picamera2 library is required in Debian Bookworm if you are using a Raspberry Pi Camera)
+    > ```python
+    > pip install future
+    > pip install lxml
+    > pip install picamera2
+    > ```
+  - If you want to activate the virtual environment everytime the terminal is opened, go to nano ~/.bashrc and add the following line at the end:
+     > ```bash
+     > source ~/myenv/bin/activate
+     > ```
+     > Save the file and exit the text editor (in nano, you do this by pressing CTRL + X, then Y, and Enter).
+     > To apply the changes immediately without needing to restart the terminal, run:
+     > ```bash
+     > source ~/.bashrc
+     > ```
+  - To deactivate the virtual environment when not required, run:
+      > ```bash
+      > deactivate
+      > ```
+
+  - Power the RPI using BEC module.
+    - **Power the Raspberry Pi using BEC module. Make sure that the power supply used is atleast 5V/3A (Recommended: 5V/5A (25 W to 27W)). Power supply less than 5V/3A may cause performance issues or the Pi may end up abruptly crashing or shutting down.**
+      - Check port        
+      >  ```bash
+      >  ls /dev/ttyAMA0
+      >  ```
+      - add below two lines at bottom of file  `sudo nano /boot/firmware/config.txt` ,if not there
+        
+      >  ```bash
+      >  enable_uart=1
+      >  dtoverlay=disable-bt
+      >  ```
+
+</details>
+
 
 ## 1.Connect to Raspberry pi
   - Connect Pi VNC using Wi-Fi.
@@ -31,7 +128,7 @@
   >  sudo pip3 install dronekit
   >  sudo pip3 install geopy
   >  sudo pip3 install MAVProxy
-  >  
+  > ```
 
   - Set up serial connection, type following in ssh
   > ```bash
@@ -62,19 +159,6 @@
 - Now connect Pixhawk and Raspberry pi, as shown in,
   ![image](https://github.com/user-attachments/assets/56a0fee3-f292-4f83-a284-e47ca6003ab8)
 
-- Power the RPI using BEC module.
-  
-  - Check port
-  
-  >  ```bash
-  >  ls /dev/ttyAMA0
-  >  ```
-  - add below two lines at bottom of file  `sudo nano /boot/config.txt` ,if not there
-    
-  >  ```bash
-  >  enable_uart=1
-  >  dtoverlay=disable-bt
-  >  ```
 
   - Now type the following to get the telemetry data of pixhawk,
   >```bash
