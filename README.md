@@ -2,6 +2,7 @@
 - **Additionally, the repository features sample code for problem statements, demonstrating how to handle specific scenarios and challenges related to the integration. Whether you're working on autonomous flight systems or experimenting with UAV technology, this repository offers valuable resources and code snippets to streamline your project.**
 
 
+###  [Dronekit library github](https://github.com/dronekit/dronekit-python)
 
 # Pixhawk and Raspberrypi Integration
   - [**Previous version of raspbery pi**](https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-05-28/) 
@@ -134,7 +135,7 @@
   >  sudo pip3 install geopy
   >  sudo pip3 install MAVProxy
   > ```
-### [dronekit library](https://github.com/dronekit/dronekit-python)
+
   - Set up serial connection, type following in ssh
   > ```bash
   > sudo raspi-config
