@@ -1,0 +1,10 @@
+stdlib_list-stubs/METADATA.toml,sha256=CggHsXlyne-RldoJXHhEsMeUvy5gSs5P0zcI8JH0v8E,63
+stdlib_list-stubs/__init__.pyi,sha256=BhmGzhOT4HjQHlJtlATh1P-rbHSzDKNXscfPAM-7GaA,226
+stdlib_list-stubs/_version.pyi,sha256=iJmvKXwhHB8msmv8REZJ72EolhBfIP1AOXnQJWyckqU,85
+stdlib_list-stubs/base.pyi,sha256=_mb9KCoAcqInyoHCyq0zodjswGFCNTpbh4jPg5pkTSc,237
+types_stdlib_list-0.8.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_stdlib_list-0.8.dist-info/METADATA,sha256=nnFMj6B8wIgm1zi2yGQa-SC1SH93aAKjk9REIFsMels,1156
+types_stdlib_list-0.8.dist-info/RECORD,,
+types_stdlib_list-0.8.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_stdlib_list-0.8.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_stdlib_list-0.8.dist-info/top_level.txt,sha256=mlhf86gbUxR4IQt0bU485V6Pr95z2ZfiqHIzHYSJRrM,18

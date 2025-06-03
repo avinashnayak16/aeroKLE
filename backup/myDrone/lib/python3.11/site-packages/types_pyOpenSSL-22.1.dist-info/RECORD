@@ -1,0 +1,12 @@
+OpenSSL-stubs/METADATA.toml,sha256=5CzirqhA91tIiFUStWDTMxOy5ITcljFqxt6774lvvZg,53
+OpenSSL-stubs/SSL.pyi,sha256=6kh2F5dCyMOoBwe-Dw9v5azsF1W4KNYxohT1OYrws-0,7079
+OpenSSL-stubs/__init__.pyi,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+OpenSSL-stubs/crypto.pyi,sha256=pT9fS3SOe4JeHYuCsLU8tQNurvmKPE8KbjyqH4fg704,8414
+OpenSSL-stubs/rand.pyi,sha256=fMLYMHJjoqVEak2VNL4r59UXOaYVXV3eJfdLLEaPF0w,124
+OpenSSL-stubs/version.pyi,sha256=SHiICuFMJZMeFPncSnexFFeItjP8aM-B8XYNuIQtwFA,130
+types_pyOpenSSL-22.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_pyOpenSSL-22.1.dist-info/METADATA,sha256=7_7aH3BX3NGrMPQNacJPZDi4w3ES-yNAhMedD9F4gFQ,1177
+types_pyOpenSSL-22.1.dist-info/RECORD,,
+types_pyOpenSSL-22.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_pyOpenSSL-22.1.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_pyOpenSSL-22.1.dist-info/top_level.txt,sha256=JO9wJnuNTnsQL0C1OdbvpeZXNhDKZpnUByZONDCxgQc,14

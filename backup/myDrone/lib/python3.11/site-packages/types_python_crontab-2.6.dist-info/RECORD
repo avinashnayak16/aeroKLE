@@ -1,0 +1,12 @@
+cronlog-stubs/METADATA.toml,sha256=AvAq50i78Zcui0jK1RbLhGeODoK-xdGNM_EETIzo4VQ,63
+cronlog-stubs/__init__.pyi,sha256=HurHqBdFCgrZrl4P9CSKI8sSVhv0XaJycMn-D_S5nao,1213
+crontab-stubs/METADATA.toml,sha256=AvAq50i78Zcui0jK1RbLhGeODoK-xdGNM_EETIzo4VQ,63
+crontab-stubs/__init__.pyi,sha256=p6GvA2LuNI_4GGuI_R8F66KrwRnabs4RCJelCrop6m8,7645
+crontabs-stubs/METADATA.toml,sha256=AvAq50i78Zcui0jK1RbLhGeODoK-xdGNM_EETIzo4VQ,63
+crontabs-stubs/__init__.pyi,sha256=PEsFfCHqvBdgeBUx8sjxsHVLDp1lH0Fqq9L4lp6TRQk,954
+types_python_crontab-2.6.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_python_crontab-2.6.dist-info/METADATA,sha256=rr4WlpHLcz9dhVSY4r7xOUb-UgdcfC4zqRPREjgE87I,1177
+types_python_crontab-2.6.dist-info/RECORD,,
+types_python_crontab-2.6.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_python_crontab-2.6.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_python_crontab-2.6.dist-info/top_level.txt,sha256=_O8smy7ZtOMvfsz2XOrx3ss3WuL77WJYGSbZE5FlEbM,43

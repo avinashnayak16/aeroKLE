@@ -1,0 +1,4 @@
+400,200,0,target
+36,12,1,hotspot
+450,445,2,hotspot
+36,12,1,hotspot

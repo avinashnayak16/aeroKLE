@@ -1,0 +1,9 @@
+tree_sitter-stubs/METADATA.toml,sha256=5pqyfM6bk0tygbt1ASukG2xmqgsntFZ04-d1lO4OT_E,64
+tree_sitter-stubs/__init__.pyi,sha256=PCaAJZiWvOgRQ7v0xxLCR-WGgvgVDH0_LHKn6SgjJ_8,667
+tree_sitter-stubs/binding.pyi,sha256=GGdJ8FkcB3zT4MjvIq95ylQzJpJgstiQGG667n4gaBw,3781
+types_tree_sitter-0.20.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_tree_sitter-0.20.dist-info/METADATA,sha256=SRIX-3QXe82XQs9mwelWmPCd7VWMDXf5L0L_W2G36eE,1157
+types_tree_sitter-0.20.dist-info/RECORD,,
+types_tree_sitter-0.20.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_tree_sitter-0.20.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_tree_sitter-0.20.dist-info/top_level.txt,sha256=Ufpxvt7TFc-t9WfAm0EoawLVvEJXvyh7vlzMyO5-HGA,18

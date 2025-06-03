@@ -1,0 +1,6 @@
+
+[FTTEXTPATH]
+freetype-py<2.4,>=2.3.0
+
+[RLPYCAIRO]
+rlPyCairo>=0.1.0

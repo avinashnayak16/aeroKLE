@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: types-gdb
+Version: 12.1
+Summary: Typing stubs for gdb
+Home-page: https://github.com/python/typeshed
+License: Apache-2.0 license
+Project-URL: GitHub, https://github.com/python/typeshed
+Project-URL: Changes, https://github.com/typeshed-internal/stub_uploader/blob/main/data/changelogs/gdb.md
+Project-URL: Issue tracker, https://github.com/python/typeshed/issues
+Project-URL: Chat, https://gitter.im/python/typing
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Typing :: Stubs Only
+Description-Content-Type: text/markdown
+
+## Typing stubs for gdb
+
+This is a PEP 561 type stub package for the `gdb` package.
+It can be used by type-checking tools like mypy, PyCharm, pytype etc. to check code
+that uses `gdb`. The source for this package can be found at
+https://github.com/python/typeshed/tree/main/stubs/gdb. All fixes for
+types and metadata should be contributed there.
+
+Type hints for GDB's [Python API](https://sourceware.org/gdb/onlinedocs/gdb/Python-API.html). Note that this API is available only when running Python scripts under GDB: is is not possible to install the `gdb` package separately, for instance using `pip`.
+
+See https://github.com/python/typeshed/blob/main/README.md for more details.
+This package was generated from typeshed commit ``.

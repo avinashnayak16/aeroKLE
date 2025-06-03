@@ -1,0 +1,13 @@
+keyboard-stubs/METADATA.toml,sha256=SJM39MxPdQrc71QtCBueJM8YJ1jF9YN40wxEIkM4aMM,64
+keyboard-stubs/__init__.pyi,sha256=uEOu9dzrpaU1TTc2I8isryQywm8eAcqiddYDHFzOeJU,5067
+keyboard-stubs/_canonical_names.pyi,sha256=B9brbT-ZNkrsipQ4Cyf3nEivr7d7FU31IdmFoOedHFw,125
+keyboard-stubs/_generic.pyi,sha256=nvQq_WrxMsGPcuH1sxL66V0nNRAs2N1hSmiDUtZBfco,900
+keyboard-stubs/_keyboard_event.pyi,sha256=Oa_58PTIcB3U2QirfAluwhGdEN6wmEkHjlgTV4WBOA4,827
+keyboard-stubs/_mouse_event.pyi,sha256=b76Xah-bJkid2MwTf-PuJKGaGcHoJG67y2SYnfjkQQo,1048
+keyboard-stubs/mouse.pyi,sha256=WS9WfB2GpE6pYYNRHJBQRGoYVD3NUT7yyQnVrMB2lQk,2873
+types_keyboard-0.13.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_keyboard-0.13.dist-info/METADATA,sha256=BwIaro49ejzrrCkuKGas2OCQ4TchkY5DeN0PHTVf3Lg,1136
+types_keyboard-0.13.dist-info/RECORD,,
+types_keyboard-0.13.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_keyboard-0.13.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_keyboard-0.13.dist-info/top_level.txt,sha256=M1SLuV7QA8XE_DvgDjfjzoxba4XcrSa2yuOJnoqJ00A,15

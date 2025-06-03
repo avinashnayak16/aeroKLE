@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: types-fpdf2
+Version: 2.5
+Summary: Typing stubs for fpdf2
+Home-page: https://github.com/python/typeshed
+License: Apache-2.0 license
+Project-URL: GitHub, https://github.com/python/typeshed
+Project-URL: Changes, https://github.com/typeshed-internal/stub_uploader/blob/main/data/changelogs/fpdf2.md
+Project-URL: Issue tracker, https://github.com/python/typeshed/issues
+Project-URL: Chat, https://gitter.im/python/typing
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Typing :: Stubs Only
+Description-Content-Type: text/markdown
+Requires-Dist: types-Pillow
+
+## Typing stubs for fpdf2
+
+This is a PEP 561 type stub package for the `fpdf2` package.
+It can be used by type-checking tools like mypy, PyCharm, pytype etc. to check code
+that uses `fpdf2`. The source for this package can be found at
+https://github.com/python/typeshed/tree/main/stubs/fpdf2. All fixes for
+types and metadata should be contributed there.
+
+See https://github.com/python/typeshed/blob/main/README.md for more details.
+This package was generated from typeshed commit ``.

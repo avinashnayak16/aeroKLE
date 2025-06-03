@@ -1,0 +1,8 @@
+
+[:python_version < "3.10"]
+
+[async]
+asgiref>=3.2
+
+[dotenv]
+python-dotenv

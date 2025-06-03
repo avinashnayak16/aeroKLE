@@ -1,0 +1,3 @@
+
+[rsa]
+oauthlib[signedtoken]>=3.0.0

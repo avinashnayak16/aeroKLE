@@ -1,0 +1,38 @@
+def send_ned_velocity(velocity_x, velocity_y,velocity_z): == complete 
+def get_distance_metres(location1, location2): == complete
+
+def set_yaw(heading, relative=False):
+
+def arm_and_takeoff(aTargetAltitude): altitude = 15
+
+def generate_grid(geofence, x_divisions, y_divisions): 
+geofence = [
+    (15.3678249, 75.1254934),  # Bottom-Left
+    (15.3674188, 75.1253727),  # Bottom-Right
+    (15.3674162, 75.1256758),  # Top-Right
+    (15.3677964, 75.1257670)   # Top-Left
+]
+x_divisions = 12
+y_divisions = 6
+
+def getLatLon(x_pixel,y_pixel): return target_lat, target_lon
+R = 6371000  # Earth's radius in meters
+image_width = 640  # pixels
+image_height = 480  # pixels
+hfov = 53  # degrees
+vfov = 41  # degrees
+  -- target_lat, target_lon
+
+
+def clearCoordinatesFile(): coordinates.txt
+
+def readingLastCoordinates(): pixel.txt
+
+def readingStepCoordinates(countFile):  countFile
+
+def take_picture():
+object_count = 0 
+# Create a lock object
+lock = threading.Lock()
+# Initialize webcam
+cap = cv2.VideoCapture(-1)

@@ -1,0 +1,8 @@
+blinker-1.5.dist-info/METADATA,sha256=d79a1767390aacff6e55d4b2a2350556ac2677dd8692faaada633f7d4f4112c2,1826
+blinker-1.5.dist-info/RECORD,,
+blinker-1.5.dist-info/WHEEL,sha256=6dbd8eb7db1c7251ca30e2c310763a076b227163a0ba08c529a26c4fbbf0310a,110
+blinker-1.5.dist-info/top_level.txt,sha256=d8d9ac10d334276b7d67c9a48f11c39863108fb066f1fe594d361ed71d5f66d3,8
+blinker/__init__.py,sha256=3875e0bf70c1d8d44a400419443adc211b5428f2c17c3ade82fd7b017152d5ab,300
+blinker/_saferef.py,sha256=d640751e130dcfefab48644522046159c575c96bcf032f051e8dcd5891c37057,9227
+blinker/_utilities.py,sha256=7a4be6b0e63a48c3fad2cefe54d747f8d0be6c68606de0c1fe7c65f085200b9f,4148
+blinker/base.py,sha256=20430aa33f540d7363a8be032d5d1f21152f3210619d2c6ebd5a669711f0d52b,16458

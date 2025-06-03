@@ -1,0 +1,10 @@
+cachetools-stubs/METADATA.toml,sha256=8gEqrGeYr2VZAGrM4HOSivs_1lnwfWYK9okC2M3Tgjw,63
+cachetools-stubs/__init__.pyi,sha256=RRStI5I4oz0aJKVNnxMRbhsGZK4VRSKzV-RoZ5I09-Q,4312
+cachetools-stubs/func.pyi,sha256=2U6WGZzQkesi8GGSMCU8_OctkBlPQuzVNSzbKVpPOcs,860
+cachetools-stubs/keys.pyi,sha256=EiwH3cx3n6xHR_eaYdAOGqUgsuIDxLW4K734e-HDFH0,337
+types_cachetools-5.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_cachetools-5.2.dist-info/METADATA,sha256=4bkigGDt0ehBcrUSk-bZacz2A5cgtBpoP2cQ81rOhV0,1149
+types_cachetools-5.2.dist-info/RECORD,,
+types_cachetools-5.2.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_cachetools-5.2.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_cachetools-5.2.dist-info/top_level.txt,sha256=wxVFpuV4igxqdFB9Ad7NFOz7kAoNX2zSBRGzzbCq8-U,17

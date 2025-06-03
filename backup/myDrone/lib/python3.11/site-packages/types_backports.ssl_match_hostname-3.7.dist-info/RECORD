@@ -1,0 +1,9 @@
+backports-stubs/METADATA.toml,sha256=KrYEcag0-6uxvruoq_7rg67TGizUCkhklEwubQHben0,63
+backports-stubs/__init__.pyi,sha256=9SErUI6q5UGmu-Ez_OMU8elcAmUT6zvdfNtnzeZzLRU,126
+backports-stubs/ssl_match_hostname/__init__.pyi,sha256=I-_Uyrps0SdY3KWNDZBnI07y5VAbjyWROt4-_0lBnRk,154
+types_backports.ssl_match_hostname-3.7.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_backports.ssl_match_hostname-3.7.dist-info/METADATA,sha256=PgJ8zmgU0suDGUZz_AF-7zj92XIKVTNa-2s0tCTTkAE,1275
+types_backports.ssl_match_hostname-3.7.dist-info/RECORD,,
+types_backports.ssl_match_hostname-3.7.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_backports.ssl_match_hostname-3.7.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_backports.ssl_match_hostname-3.7.dist-info/top_level.txt,sha256=M4_EBEPR5z2N41Jn7zIsHxINVy64WZG46Osc6wr4X2c,16

@@ -1,0 +1,11 @@
+slumber-stubs/METADATA.toml,sha256=Mv9oqrDZtn17Y5OHs52RkETpKsp6zoYe3vuqaZrKcbs,63
+slumber-stubs/__init__.pyi,sha256=wPoqABzx_n2iM83C_hTTAbA_uTccbQS5cCqvZxUm9fQ,1079
+slumber-stubs/exceptions.pyi,sha256=vtwccGO-M_hLIh3KXfo3gxZD3Ja9SMANgZDxFrtkXok,469
+slumber-stubs/serialize.pyi,sha256=jPC7mFdcPYiWLrRaH-aNOrlT7GCII3rJeKDD4hwZEos,887
+slumber-stubs/utils.pyi,sha256=XoAaDm_aAspKynV8XBBfpbEowFl9KGIK_y9cdiJ4aHg,85
+types_slumber-0.7.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_slumber-0.7.dist-info/METADATA,sha256=w41SZAKwXEqLYcQZXmirvUg1LZQF7IJgP2NEebZ9KpQ,1128
+types_slumber-0.7.dist-info/RECORD,,
+types_slumber-0.7.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_slumber-0.7.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_slumber-0.7.dist-info/top_level.txt,sha256=PKOq-4myo3_PlT9GE6GdFjbfapBsKs5QrUiaiv0jg1U,14

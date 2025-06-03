@@ -1,0 +1,10 @@
+
+[tests]
+coverage>=6.0.0
+flake8
+mypy
+pytest-cov
+pytest-localserver
+pytest>=4.6
+types-mock
+types-requests

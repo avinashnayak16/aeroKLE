@@ -1,0 +1,17 @@
+aiofiles-stubs/METADATA.toml,sha256=ArtSEuoQ6w89IMJy2PaSE_Ae9ANQMJKgeD2RJt0vwt8,19
+aiofiles-stubs/__init__.pyi,sha256=RjpgJT8FpP7UQvW_opxF3DRYeWOCRjm94fAXS70xeUQ,72
+aiofiles-stubs/base.pyi,sha256=kVyCUuwyIBvMV-AHb5SFoEIguW5FdFhD77TeiUBY_0Q,1481
+aiofiles-stubs/os.pyi,sha256=q_y4aNzAi6lBXZt7v-33tNkOftKrTSgvqBSZFocM8Hs,2269
+aiofiles-stubs/ospath.pyi,sha256=hgqJxSqZ-FYKjZ3cYj0XHEQ3hxGwQMn7HrW14ervUwg,1237
+aiofiles-stubs/tempfile/__init__.pyi,sha256=BAOukrJev_djipUmBQ425GCWmzi6Ua4_y5sqGj4cpKc,8298
+aiofiles-stubs/tempfile/temptypes.pyi,sha256=oEGGkmIyuBNh4n_bsbSeML0jZB_vuibbJOiLmGZEYeA,1971
+aiofiles-stubs/threadpool/__init__.pyi,sha256=aTJnEvGRnT8peDdEqyC3cw-l-ub1WIVopoFOGJjM478,2801
+aiofiles-stubs/threadpool/binary.pyi,sha256=go-gjxfNSt0rL84ZLuXPR2hbwqA8Ij5F885GxurSiVs,1604
+aiofiles-stubs/threadpool/text.pyi,sha256=jPrfh9ZXJBTEo7kwAaiAvNrm_yUflt5N2NFT58daWrU,1407
+aiofiles-stubs/threadpool/utils.pyi,sha256=PODM-j9lum-1qyO9y-giAPaFknxojfrquWhnJywfHIg,460
+types_aiofiles-22.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_aiofiles-22.1.dist-info/METADATA,sha256=Z8c8ekTQFMtVrN3TGbIsUTo46ZCfsdmGr7ofcHL5ecM,1136
+types_aiofiles-22.1.dist-info/RECORD,,
+types_aiofiles-22.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_aiofiles-22.1.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_aiofiles-22.1.dist-info/top_level.txt,sha256=t58et2RkjHfTTiZmL25XHdLh7Xqxt0_gHYHyBdsgnfE,15

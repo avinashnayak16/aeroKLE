@@ -1,0 +1,9 @@
+
+[docs]
+sphinx!=5.2.0,!=5.2.0.post0
+sphinx_rtd_theme
+
+[test]
+flaky
+pretend
+pytest>=3.0.1

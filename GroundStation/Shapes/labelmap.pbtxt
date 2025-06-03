@@ -1,0 +1,15 @@
+item {
+  id: 1
+  name: 'circle'
+}
+
+item {
+  id: 2
+  name: 'square'
+}
+
+item {
+  id: 3
+  name: 'triangle'
+}
+

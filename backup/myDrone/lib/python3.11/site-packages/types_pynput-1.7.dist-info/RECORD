@@ -1,0 +1,16 @@
+pynput-stubs/METADATA.toml,sha256=aMlaSz5KElSW-EMrtMgVvLwHnQqEL8LKtWBXjVIGm2U,18
+pynput-stubs/__init__.pyi,sha256=SntVr8SGQr5jVR3rOTo7-ycJVh-4w1aWxYU1yeLmzCg,51
+pynput-stubs/_info.pyi,sha256=EVEmzjAhcH6oiNRojMh1Bg-_A04M5Z9LygV3eF_LI90,50
+pynput-stubs/_util.pyi,sha256=nMHetlIIUX7LGBLZwAm2Cqrnt7p3TKRht4Aj7vivYK8,2715
+pynput-stubs/keyboard/__init__.pyi,sha256=kpk9dah_1m58GZXB8byRYbhuyj9HViSoSdCA5HxHYfc,1130
+pynput-stubs/keyboard/_base.pyi,sha256=dKvS1vRonYl0xmp_fTygxdTrNOZcyjQrRrPNg1z97b8,3160
+pynput-stubs/keyboard/_dummy.pyi,sha256=AT7tuxuoOQgE3SPs72oDVttu_zWMBvPbZenDEZLa3mE,98
+pynput-stubs/mouse/__init__.pyi,sha256=AlAFvvwPawcypuWIPJ58RePPJ2Zuqx3eJkGrq97E_5U,849
+pynput-stubs/mouse/_base.pyi,sha256=hoCKrBNZ8JTZh5dGueLyA3WBxsTdv3FfTfJfcShUYhU,1284
+pynput-stubs/mouse/_dummy.pyi,sha256=xbC7_rh3eLFckX3AEQ6mgdK-4kmtHUF25RshUko1NrQ,84
+types_pynput-1.7.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_pynput-1.7.dist-info/METADATA,sha256=qncLDwCy9hM79XotYlxgdubHibbPVgWBI5VpqmbLOWA,1121
+types_pynput-1.7.dist-info/RECORD,,
+types_pynput-1.7.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_pynput-1.7.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_pynput-1.7.dist-info/top_level.txt,sha256=90YxUTbZytA5iBfisiGx5ubN-i0AYaw-cFC_IDSLW70,13

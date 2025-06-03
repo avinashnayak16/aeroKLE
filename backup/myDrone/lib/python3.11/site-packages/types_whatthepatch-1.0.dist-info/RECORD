@@ -1,0 +1,12 @@
+types_whatthepatch-1.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_whatthepatch-1.0.dist-info/METADATA,sha256=c6Kt6DnnxKNDnOLtpfMosVf7oDr5Z5nHGqYMah80j_w,1163
+types_whatthepatch-1.0.dist-info/RECORD,,
+types_whatthepatch-1.0.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_whatthepatch-1.0.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_whatthepatch-1.0.dist-info/top_level.txt,sha256=GPZcTlO240b6p0LAaPYoNE33uIU5xWy8i_oBoZhfj-g,19
+whatthepatch-stubs/METADATA.toml,sha256=am-pxmLmJVYq3_8hg7MiQYW4gYseVn4_lkNHjX5LdoM,63
+whatthepatch-stubs/__init__.pyi,sha256=QIx30aaxZq2_d1dAxH6wdHrYWDnrTXjC5idNq2WKtEE,90
+whatthepatch-stubs/apply.pyi,sha256=wOzF5LzuYYDp9o86Dj_5v0yWHQgl-tELRZJl1bt9_s0,434
+whatthepatch-stubs/exceptions.pyi,sha256=dswSRpm5iWd7TERwfX8gWIRN0Pc6grqSfZxGIQJcT98,472
+whatthepatch-stubs/patch.pyi,sha256=xk-Km4Z6qMQInJ0Uc-e-DtIikom-Dc65A9JPrtah-LY,2930
+whatthepatch-stubs/snippets.pyi,sha256=acRRBAgWEotIe0gtGIdO3uL717ZkZpcW_Kkx8jR9_P0,308

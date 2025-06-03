@@ -1,0 +1,10 @@
+slugify-stubs/METADATA.toml,sha256=Y4vdu89O3REYKfFFtxrbnwl_LG7xTnrjQ0TiwwZYK4M,18
+slugify-stubs/__init__.pyi,sha256=oS6sazgR3xHmORcsqDRk6ZulbTzRF1UJaDw1V2i9428,46
+slugify-stubs/slugify.pyi,sha256=crOMjNjcuhPwgIL8qKIzbr5vJTTGyWaiCjIWrYmsZcg,598
+slugify-stubs/special.pyi,sha256=g39i4u8zzmqpH08qnnm5ayfzX9c1Jx1fcEmtgtDmTTE,281
+types_python_slugify-6.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_python_slugify-6.1.dist-info/METADATA,sha256=z25cD5e0oGyl-Eq2VE8vPR5Rb5CstZ5e01n02we4ctw,1177
+types_python_slugify-6.1.dist-info/RECORD,,
+types_python_slugify-6.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_python_slugify-6.1.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_python_slugify-6.1.dist-info/top_level.txt,sha256=Rzha_4WjsUQBA3kamvqffZdt3vu-qLrFv4FO4QHAv7g,14

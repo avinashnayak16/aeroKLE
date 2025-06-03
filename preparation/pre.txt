@@ -1,0 +1,58 @@
+software checks
+	pi cam
+	walksnail cam
+	model(detection objects) - spelling
+	model(shapes) - spelling
+	voltage battery 
+	horus battery
+	motor direction (props) and fastners
+	mission planner
+	herelink video
+	rtsp 
+	
+	
+hardware - 3rd mission(camera angle)
+	wires checks
+	PDB
+	3DR
+	receiver
+	gps fix(wires)
+	servo test(with payload)
+	
+
+	
+mission-03
+	walksnail cam feed
+	pi cam feed
+	servo 
+	
+	rtsp try
+	wifi aerokle2
+	hardware:
+		battery->li-ions
+		cables
+		volatge checker
+		motor, spinner , props
+		ESC
+		6c kit
+		BEC's
+		flight box
+		tongs
+		
+		
+mission-01
+	walksnail cam feed
+	pi cam feed
+	pi cam model
+	rtsp model
+	aerokle2-wifi
+	hardware:
+		battery->new-Bonka
+		cables
+		volatge checker
+		motor, spinner , props
+		ESC
+		6c kit
+		BEC's
+		flight box
+		tongs

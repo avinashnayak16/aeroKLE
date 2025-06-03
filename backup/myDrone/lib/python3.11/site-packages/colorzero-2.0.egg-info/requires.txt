@@ -1,0 +1,8 @@
+
+[doc]
+sphinx
+sphinx-rtd-theme
+
+[test]
+pytest
+pytest-cov

@@ -1,0 +1,10 @@
+hdbcli-stubs/METADATA.toml,sha256=M5rXPeJA9WxcLRyqqcJmACpt_dAkf7ZC_nuArMEP4e4,64
+hdbcli-stubs/__init__.pyi,sha256=o3z4pFinEwrzkYCw5VSQytV7vjVbu-M-ApItUdAMg88,47
+hdbcli-stubs/dbapi.pyi,sha256=8odkp51G0WQagNFNXhR0TKy8IwvoP-6B3b2t3scrzOQ,5382
+hdbcli-stubs/resultrow.pyi,sha256=PIwzO3QpQKHYgh8AOGFqW9vIGz94xQt6FKcW9q_a028,173
+types_hdbcli-2.14.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_hdbcli-2.14.dist-info/METADATA,sha256=pnuaqLZCwHr3t3X1cfB7Po5z3O6vZLftrPlCverjbUM,1122
+types_hdbcli-2.14.dist-info/RECORD,,
+types_hdbcli-2.14.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_hdbcli-2.14.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_hdbcli-2.14.dist-info/top_level.txt,sha256=JWpMRq8QYtEvop-QvgRS_Kso_A0X7z0y9_9lLMpU1D8,13

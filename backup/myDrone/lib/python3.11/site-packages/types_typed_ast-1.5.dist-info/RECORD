@@ -1,0 +1,11 @@
+typed_ast-stubs/METADATA.toml,sha256=iebKc_MZUuOtLLZiT6vP1MzPXXI2HfZXv6MZMuXmT2o,63
+typed_ast-stubs/__init__.pyi,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+typed_ast-stubs/ast27.pyi,sha256=z75JIiBFOTxga41og08y3Aeu2KHMT7RqXNMcbPsGhFI,6596
+typed_ast-stubs/ast3.pyi,sha256=4WWWSxp2V_Aj7k6q8di0AbguPDMUTpmSXrp1m8ukm6U,7539
+typed_ast-stubs/conversions.pyi,sha256=fNBvV3U3qM1ehj0f9uO9xPT9XL43AiT7v51N2S39Qf0,71
+types_typed_ast-1.5.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_typed_ast-1.5.dist-info/METADATA,sha256=RtgcdYz6QujOALkkPdMDfXoNP87ZTWbGWpPOfndxP6o,1142
+types_typed_ast-1.5.dist-info/RECORD,,
+types_typed_ast-1.5.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_typed_ast-1.5.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_typed_ast-1.5.dist-info/top_level.txt,sha256=MgaxlpCjqAutRMfB77MJawCoLFHqWf-c5Fyl4JKp054,16

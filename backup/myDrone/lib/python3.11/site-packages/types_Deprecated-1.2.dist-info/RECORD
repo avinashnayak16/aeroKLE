@@ -1,0 +1,10 @@
+deprecated-stubs/METADATA.toml,sha256=Xy4GqzzyziezOhInlL0O2g9QMtKsmWJPTo8eIfzIudk,77
+deprecated-stubs/__init__.pyi,sha256=lhsn7X7kma5rFKLfIt9CNexFfg6TDBavAB05bYU65MQ,78
+deprecated-stubs/classic.pyi,sha256=97PfsaQPGoYJ4RC-PNfxj3ToOPS3KgsQ2R_ODlwQWyM,933
+deprecated-stubs/sphinx.pyi,sha256=DBZ3FmvdP5UaGDoqj19ae6Bo1dGh-c2veulZh9nx4gc,1174
+types_Deprecated-1.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_Deprecated-1.2.dist-info/METADATA,sha256=fup4yZDgwE9muqepRLqNyuN577A0S2gG2mlvmFkAYxc,1149
+types_Deprecated-1.2.dist-info/RECORD,,
+types_Deprecated-1.2.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_Deprecated-1.2.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_Deprecated-1.2.dist-info/top_level.txt,sha256=cg8f5UQO3NJ6sjb0ysnNdCkh1glaOecGpVVS7tEXryE,17

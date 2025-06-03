@@ -1,0 +1,16 @@
+types_vobject-0.9.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_vobject-0.9.dist-info/METADATA,sha256=m_BI2-HpUwYDQSGhlnBBFiNIst2u3TRLxm6LKZLFwng,1128
+types_vobject-0.9.dist-info/RECORD,,
+types_vobject-0.9.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_vobject-0.9.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_vobject-0.9.dist-info/top_level.txt,sha256=CqcKFDIShIOxOo0mn6jmq5xuefF4m1_VEoKFKzowWh0,14
+vobject-stubs/METADATA.toml,sha256=roLcEJc4awCTYTB4AStklm3rFL7bnQhEVJGTBvvk1WY,63
+vobject-stubs/__init__.pyi,sha256=0D2qHqq6ljsvBcU92qUyIUJloR2qf0LmOXEUWntngn4,93
+vobject-stubs/base.pyi,sha256=8j8nqsTS70iZz8dEM8dRvZ6Yw7i6-glBz6J3fDyabq8,5177
+vobject-stubs/behavior.pyi,sha256=w4I7JF67jCR4GsYFGaOCnExueRv4Zbkyn5E0ypqcYwQ,929
+vobject-stubs/change_tz.pyi,sha256=9OFL2dTy_8tbt8rx446AeBFCHzpud0vEoInDUlcq498,151
+vobject-stubs/hcalendar.pyi,sha256=9EcJzZpMVMXdOYOaoasmhMkWmHaoQOWibj8kwaskCe8,231
+vobject-stubs/icalendar.pyi,sha256=ByW-xRz_NbRhYE4X6KyH55YSmd6ovBFkPqXM2fyvHGU,6119
+vobject-stubs/ics_diff.pyi,sha256=p0abGsHCzFEKSt1luXoSUyoi8UueIkouwc3UsT_--Ro,270
+vobject-stubs/vcard.pyi,sha256=9sJTGH66TuA0Laatc_8x7ktFdCcTKbjnwtqPHup0Dv4,2469
+vobject-stubs/win32tz.pyi,sha256=WxK7RpZFaPSDhnj_1IyBn3w-oPTLGqbIeZh4eXiIZM0,927

@@ -1,0 +1,4 @@
+
+[gui]
+PyQt5
+pyopengl

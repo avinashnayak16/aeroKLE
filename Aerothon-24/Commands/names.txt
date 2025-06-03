@@ -1,0 +1,27 @@
+1.Names of listed
+
+	hotspot
+	target
+
+	square
+	circle
+	
+	
+2.Folder Names 
+	
+	objects
+	shapes
+	targets
+
+
+Test file 
+	Model Test
+	RTL 
+	Goto
+	PayLoad
+	Home
+	Directions
+	cam
+	video
+	serpentile
+	

@@ -1,0 +1,12 @@
+flask_cors-stubs/METADATA.toml,sha256=W6Hh_ZyuMsyJUyceygSSP5Zxe9TYi3L0_XACyNVV2cc,18
+flask_cors-stubs/__init__.pyi,sha256=6Kzy9nt-gOPKGU7GwIYUOo9y8J7OrDYM1q0BnbUue4Y,184
+flask_cors-stubs/core.pyi,sha256=d6xPxayjtDXJoXgqDgPJ39Tgtll6tdAfL1_ha4D1YYM,2725
+flask_cors-stubs/decorator.pyi,sha256=jvuk_5FjFNsTWXoW2Nmb8PsJbtMxWwHfcaI79gVgvec,783
+flask_cors-stubs/extension.pyi,sha256=x1L52rgg5VhpY7Iti7fbtQmH5cKs4mm354HwNpvTyGE,1447
+flask_cors-stubs/version.pyi,sha256=Y25n44pyE3vp92MiABKrcK3IWRyQ1JG1rZ4Ufqy2nC0,17
+types_Flask_Cors-3.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_Flask_Cors-3.0.dist-info/METADATA,sha256=q1zpNuXn6i28mcHBIB_Laa0KlYqkTcrSSbiOvgqVNzI,1149
+types_Flask_Cors-3.0.dist-info/RECORD,,
+types_Flask_Cors-3.0.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_Flask_Cors-3.0.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_Flask_Cors-3.0.dist-info/top_level.txt,sha256=xmSddbI7T0FOZEwhf3rhG-sy9sqyLkRli2Bd7qIDfP0,17

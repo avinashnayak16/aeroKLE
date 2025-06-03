@@ -1,0 +1,11 @@
+send2trash-stubs/METADATA.toml,sha256=rrNvqyaG4TZDbymkHWIjzTOh0bB4_XaLzqHqlSiZxcs,18
+send2trash-stubs/__init__.pyi,sha256=RstGHmePYVc0z9cT4VgmfvImvGD-dd2QXs1S2YaFvZk,412
+send2trash-stubs/compat.pyi,sha256=HbVHRlAzA42Awdc2dJwy6QdpfobSwrv3rXRkpfe1Og0,83
+send2trash-stubs/exceptions.pyi,sha256=ep0BwVlGxMAaK5niWZTq0zssMtqUdzjfdBGkVbXdcJA,177
+send2trash-stubs/util.pyi,sha256=eQPstpUWy69HgNZXAKsVR_mCYVbgUSTl60Y8555Y5wo,185
+types_Send2Trash-1.8.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_Send2Trash-1.8.dist-info/METADATA,sha256=u3Q51rAoeUeXeGTwn5yFlhkVWHE4g4MH5cScbCee2WM,1149
+types_Send2Trash-1.8.dist-info/RECORD,,
+types_Send2Trash-1.8.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_Send2Trash-1.8.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_Send2Trash-1.8.dist-info/top_level.txt,sha256=9H0CjFuiCizhEeUTBz9u5hJ-uQKC5sZEdQYEZc75pAY,17

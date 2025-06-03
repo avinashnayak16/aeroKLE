@@ -1,0 +1,10 @@
+prettytable-stubs/METADATA.toml,sha256=Hom1G3TxDqs93qJpkOPsFjt-LEOJpffFzTOBVJkWyZM,113
+prettytable-stubs/__init__.pyi,sha256=LL2WqLzjULl8rZ6UCYxsR1IC84cPQmNbP_vXEvrbdxo,571
+prettytable-stubs/colortable.pyi,sha256=SuP7hVLDZJ6fjXkOjOCD2K7mTxhFNadGwu4RXOu4ZwI,1155
+prettytable-stubs/prettytable.pyi,sha256=owMxHQy5ZUdgjfGfO7lhPKnWH_flJ1-3ciYeVxoNJF4,7226
+types_prettytable-3.4.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+types_prettytable-3.4.dist-info/METADATA,sha256=AW-r8guLgjst4WGaC5laLwLW_6rzEbgAUhIlzqTlq0g,1338
+types_prettytable-3.4.dist-info/RECORD,,
+types_prettytable-3.4.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+types_prettytable-3.4.dist-info/WHEEL,sha256=Ni9JGQXk2T4q02tFVwTZ-iAb8m9R1cjnSLMaE4VH1rg,92
+types_prettytable-3.4.dist-info/top_level.txt,sha256=LB8oJdHkzDFHjZ9o_VLcysW1p0gt0byR5aB2BftJErQ,18
